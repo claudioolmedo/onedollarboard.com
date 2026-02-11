@@ -1,7 +1,5 @@
 # About the One Dollar Board
 
-## A Spiritual Engineering Project
-
 The One Dollar Board is more than a microcontroller board.
 
 It is an engineering project built through ordinary work — soldering, coding, testing, documenting, refining, and sharing. For those behind it, this work has a spiritual dimension. It is an intentional effort to lower barriers, awaken talent, and give access to real engineering tools to anyone, anywhere.
@@ -182,7 +180,7 @@ You are helping awaken talent.
 
 ## The Future
 
-It is trying to build something foundational:
+This project aims to build something foundational:
 
 A simple, accessible, durable tool that can exist for decades.
 
