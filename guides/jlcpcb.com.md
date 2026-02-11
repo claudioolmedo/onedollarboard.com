@@ -15,7 +15,7 @@ The process is simple:
 
 Download the latest manufacturing package (click to download):
 
-👉 [**Download ZIP – Official JLCPCB Package**](https://github.com/claudioolmedo/onedollarboard.com/raw/main/download/OneDollarBoard.com.ODB.1.004_r1_JLCPCB.zip)
+👉 [**Download ZIP – Official JLCPCB Package**](https://github.com/claudioolmedo/onedollarboard.com/raw/main/download/OneDollarBoard.com.ODB.1.004_r1_jlcpcb.zip)
 
 📁 [All files in `/download`](https://github.com/claudioolmedo/onedollarboard.com/tree/main/download)
 
