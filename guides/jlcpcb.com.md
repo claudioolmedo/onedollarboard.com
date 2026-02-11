@@ -126,15 +126,8 @@ Just click **"Continue"**.
 
 JLCPCB only assembles **SMD components**.
 
-The DIP connectors (headers) are:
-- J1
-- J2
-- JP1
-- JP2
-
-These must be soldered manually after you receive the board.
-
-They are very easy to solder and widely available.
+- **J1, J2** — PCB connector footprints only. No components to buy. Ignore them.
+- **JP1, JP2** — Headers soldered manually after you receive the board. Easy to solder and widely available.
 
 ---
 
