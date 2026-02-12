@@ -26,7 +26,7 @@ After downloading:
 
 - `OneDollarBoard_V1.004_R1_JLCPCB_BOM.xlsx`
 - `OneDollarBoard_V1.004_R1_JLCPCB_CPL.xlsx`
-- `OneDollarBoard.com.ODB.1.004_r1_jlcpcb.zip` Gerber files (inside the folder)
+- `OneDollarBoard.com.ODB.1.004_r1_jlcpcb.zip` (this is the file you should upload directly to the JLCPCB website – it already contains all the necessary Gerber files)
 
 You only need the extracted files. Do not modify them.
 
