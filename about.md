@@ -206,3 +206,190 @@ then welcome.
 Let's awaken talent around the world.
 
 Claudio
+
+# About the One Dollar Board
+
+The One Dollar Board is a minimal, open‑source RISC‑V development board designed for extremely low‑cost manufacturing and global accessibility.
+
+It was built through practical engineering work — soldering, coding, testing, documenting, refining, and sharing — with a clear objective: lower the barrier to entry for hardware development.
+
+The goal is simple:
+
+Make real engineering tools accessible to anyone, anywhere.
+
+---
+
+## The Core Mission
+
+**To awaken talent around the world by removing barriers to entry.**
+
+Talent exists everywhere.
+
+Access does not.
+
+The One Dollar Board exists to narrow that gap by making hardware:
+
+- Affordable  
+- Manufacturable  
+- Understandable  
+- Web‑compatible  
+- Open  
+
+When a tool is inexpensive and easy to access, experimentation becomes natural.
+
+The board aims to make electronics feel as accessible as a pencil — simple, available, and ready to use.
+
+---
+
+## What It Is
+
+The One Dollar Board is:
+
+- A minimal RISC‑V (CH32V003) development board  
+- Designed for 2‑layer PCB manufacturing  
+- Single‑side SMD assembly  
+- 0603 passives  
+- WebHID compatible  
+- Fully open‑source (Gerbers, BOM, Pick & Place available)  
+- Designed to be fabricated anywhere in the world  
+
+It is intentionally simple.
+
+No unnecessary components.  
+No locked ecosystem.  
+No proprietary barriers.  
+
+Only what is necessary to learn, experiment, and build.
+
+---
+
+## Manufacturing Philosophy
+
+The board was designed with manufacturing in mind from the start:
+
+- Standard JLCPCB‑friendly footprints  
+- Minimal BOM  
+- Cost‑optimized layout  
+- Clear silkscreen labeling  
+- Easy SMT assembly  
+
+Anyone can download the files and fabricate the board using common PCB assembly services.
+
+Open hardware only matters if it is actually buildable.
+
+---
+
+## Why “One Dollar”?
+
+The name represents intent, not a fixed price.
+
+It reflects:
+
+- Radical cost awareness  
+- Psychological accessibility  
+- Encouragement to experiment  
+- The belief that powerful tools do not need to be expensive  
+
+Even if market prices fluctuate, the mission remains the same:
+
+Lower the barrier.
+
+---
+
+## Designed in Austin. Built for Anywhere.
+
+Designed in Austin, Texas.
+
+But intended for:
+
+- Classrooms  
+- Makerspaces  
+- Independent learners  
+- Emerging markets  
+- Low‑resource environments  
+- Engineers experimenting at home  
+
+Geography should not determine who gets to experiment with hardware.
+
+---
+
+## Open Source with Purpose
+
+All core design files are available:
+
+- Gerbers  
+- BOM  
+- Pick & Place  
+- Schematics  
+- Source files  
+
+Anyone can:
+
+- Manufacture  
+- Improve  
+- Adapt  
+- Integrate  
+- Teach with it  
+
+The expectation is simple:
+
+Contribute responsibly. Improve thoughtfully. Keep it accessible.
+
+---
+
+## A Foundation, Not a Gadget
+
+The One Dollar Board is not intended to compete with feature‑rich development kits.
+
+It is designed to be:
+
+- A foundation for learning  
+- A platform for experimentation  
+- A base for educational robotics (ROBOX™)  
+- A building block for modular ecosystems  
+- A bridge between web tools and hardware  
+
+Simplicity is a feature, not a limitation.
+
+---
+
+## Built Over Time
+
+This project has evolved over more than a decade of iteration, redesign, and refinement.
+
+It represents:
+
+- Long‑term commitment  
+- Continuous improvement  
+- Learning through failure  
+- Documentation and transparency  
+- Engineering discipline  
+
+Its progress has been incremental and practical.
+
+---
+
+## Looking Forward
+
+The long‑term objective is to create:
+
+- A durable, maintainable hardware platform  
+- A board compatible with web‑based tooling  
+- A system that works in schools and independent environments  
+- A foundation for AI‑assisted hardware development  
+
+The board is not the end product.
+
+It is infrastructure.
+
+---
+
+## Final Thought
+
+If you believe hardware should be accessible,  
+if you believe experimentation should be affordable,  
+if you believe engineering talent can emerge anywhere,
+
+then this project is for you.
+
+Let’s lower the barrier — and build.  
